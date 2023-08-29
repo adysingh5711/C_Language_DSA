@@ -1,0 +1,1 @@
+// WAP in c to enter n numbers of digit and convert it to a single integer number

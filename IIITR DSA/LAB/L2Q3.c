@@ -1,0 +1,1 @@
+// WAP in c to find whether the array of integers contains a duplicate number

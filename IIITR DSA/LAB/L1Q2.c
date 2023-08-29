@@ -1,0 +1,1 @@
+// WAP in c to count frequency of each element in a given array
